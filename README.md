@@ -5,7 +5,7 @@
 
 *If there is something missing or out of date, please contact me.
 
-* Written for entertainment purposes, you can use it as you wish.
+*Written for entertainment purposes, you can use it as you wish.
 
 --TR--
 
